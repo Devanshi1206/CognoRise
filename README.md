@@ -4,7 +4,7 @@
 
 This repository contains all my projects provided by the CognoRise.
 
-Projects:
+Projects provided:
 
     IRIS FLOWER CLASSIFICATION
     CREDIT CARD FRAUD DETECTION
@@ -51,5 +51,6 @@ Project 4: SUPERSTORE SALES PREDICTION
 
 Project 5: CAR PRICE PREDICTION
 
+Project 6: SHOPPER SENTIMENTS
 
 P.S.: If you find this helpful, kindly consider giving it a star rating. Thank you!
